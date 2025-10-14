@@ -1,0 +1,24 @@
+#display {
+	height: 45px;
+	width: 220px;
+	font-size: 30px;
+	font-family: monospace;
+	text-align: right;
+	font-weight: bold;
+}
+
+
+input[type="button"] {
+	width: 100%;
+	height: 30px;
+}
+
+table {
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	width: 213px;
+	transition: width .4s ease-out;
+	-moz-transform: rotate(360deg);
+}
